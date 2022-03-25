@@ -47,6 +47,8 @@ details{
 }
 summary{
     font-size: 30px;
+    cursor: pointer;
+
 }
 @media (max-width: 600px){
    h1{
@@ -56,4 +58,12 @@ summary{
        font-size: 30px;
    }
 
+}
+
+img{
+    width: 30vh;
+}
+
+.moreinf{
+    font-size: 30px;
 }
