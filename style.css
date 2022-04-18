@@ -3,7 +3,7 @@
     font-family: 'Roboto', sans-serif;
 }
 h1{
-    background-color: blue;
+    background-color: #0000ff;
     text-align: center;
     font-size: 70px;
     text-decoration: underline;
@@ -22,6 +22,9 @@ body{
 }
 li{
     font-size: 20px;
+    direction: rtl !important; /*RIGHT TO LEFT DIRECTION*/
+    text-align: right !important;
+    margin-right: 30px;
 }
 fieldset{
     margin-bottom: 40px;
